@@ -25,7 +25,6 @@
 [<img align="left" alt="lukaskurnia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="lukas_kurnia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 [twitter]: https://twitter.com/lukaskurniaa
 [instagram]: https://instagram.com/lukas_kurnia
 [linkedin]: https://linkedin.com/in/lukaskurnia
