@@ -13,7 +13,7 @@
 <details>
   <summary>:zap: Most Used Languages in Github</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskurnia&layout=compact&hide=c#)](https://github.com/lukaskurnia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskurnia&layout=compact)](https://github.com/lukaskurnia/github-readme-stats)
 
 </details>
 
@@ -24,7 +24,6 @@
 [<img align="left" alt="lukaskurniaa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="lukaskurnia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="lukas_kurnia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 [twitter]: https://twitter.com/lukaskurniaa
 [instagram]: https://instagram.com/lukas_kurnia
